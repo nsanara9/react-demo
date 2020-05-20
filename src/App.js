@@ -8,7 +8,7 @@ const App2 = () => {
 
   return (
     <>
-      <p>Hello! {name}</p>
+      <p>Hello Sweet Heart! {name}</p>
       <input
         type="text" name="name" onChange={({ target }) => setName(target.value)}/>
     </>
